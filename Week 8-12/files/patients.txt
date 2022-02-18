@@ -1,0 +1,4 @@
+1,David,Something,Male,Pokhara,Somewher,Suspect,  Null,September 13 2021,September 30 2021
+2,Esteban,Sackett,female,Philadelphia,PA,Suspect,  Null,October 14 2021,October 27 2021
+3,Bradford,Web,Male,Orlando,TA,Infected,  September 8 2021,Null,October 1 2021
+3,Patient,One,Male,Kathmandu,Gokarneshowr,Infected, January 4 2022,Null,January 6 2022
